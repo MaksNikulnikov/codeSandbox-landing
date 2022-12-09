@@ -1,10 +1,6 @@
 .header__button{
-    background-color: #EAFF96;
     width: 112px;
     height: 28px;
     font-size: 12px;
     line-height: 12px;
-    color:#151515;
-    border: none;
-    border-radius: 4px;
 }

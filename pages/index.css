@@ -1,4 +1,5 @@
 @import url(../vendor/normalize.css);
+@import url(../vendor/fonts/fonts.css);
 @import url(../blocks/header/__header.css);
 @import url(../blocks/root/__root.css);
 @import url(../blocks/header/__menu/header__menu.css);
@@ -7,3 +8,11 @@
 @import url(../blocks/header/__menu/_item/header__menu_item.css);
 @import url(../blocks/header/__menu/_has-message/header__menu_has-message.css);
 @import url(../blocks/header/__button/header__button.css);
+@import url(../blocks/lead/__image/lead__image.css);
+@import url(../blocks/button/__button.css);
+@import url(../blocks/description/__description.css);
+@import url(../blocks/description/__button/deckription__button.css);
+@import url(../blocks/description/__subtitle/description__subtitle.css);
+@import url(../blocks/description/__text/description__text.css);
+@import url(../blocks/description/__title/decsripton__title.css);
+@import url(../blocks/lead/__lead.css);

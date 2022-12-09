@@ -1,0 +1,11 @@
+.description__subtitle {
+    font-family: 'Roboto', Arial, sans-serif;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 64px;
+    letter-spacing: 1.6px;
+    margin-bottom: 31px;
+    margin-top: 0;
+    max-width: 568px;
+    text-align: center;
+}
