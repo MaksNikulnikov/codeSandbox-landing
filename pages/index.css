@@ -22,3 +22,10 @@
 @import url(../blocks/overview/__item-title/overview__item-title.css);
 @import url(../blocks/overview/__item-title/_active/overview__item-title_active.css);
 @import url(../blocks/overview/__text/overview__text.css);
+@import url(../blocks/description/__image/description__image.css);
+@import url(../blocks/description/__button/_ios/description__button_ios.css);
+@import url(../blocks/description/__text/_ios/description__text_ios.css);
+@import url(../blocks/description/__title/_ios/description__title_ios.css);
+@import url(../blocks/description/__subtitle/_ios/description__subtitle_ios.css);
+@import url(../blocks/description/__mark/description__mark.css);
+@import url(../blocks/description/_ios/description_ios.css);
