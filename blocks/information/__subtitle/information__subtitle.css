@@ -1,0 +1,11 @@
+.information__subtitle {
+    font-family: 'Inter', Arial, sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 29px;
+    text-align: center;
+    color: #999999;
+    max-width: 357px;
+    margin-bottom: 80px;
+    margin-top: 0;
+}

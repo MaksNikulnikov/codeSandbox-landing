@@ -5,4 +5,5 @@
     letter-spacing: 0.95px;
     margin-bottom: 16px;
     margin-top: 0;
+    text-rendering: optimizeLegibility;
 }

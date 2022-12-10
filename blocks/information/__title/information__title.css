@@ -1,0 +1,13 @@
+.information__title {
+    font-family: 'Roboto', Arial, sans-serif;
+    text-rendering: optimizeLegibility;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 48px;
+    text-align: center;
+    letter-spacing: 1.2px;
+    color: #FFFFFF;
+    max-width: 432px;
+    margin-top: 0;
+    margin-bottom: 30px;
+}

@@ -1,7 +1,6 @@
 .description{
     font-weight: 400;
     color: #ffffff;
-    text-rendering: optimizeLegibility;
     font-family: 'Inter', Arial, sans-serif;
     display: flex;
     flex-direction: column;
