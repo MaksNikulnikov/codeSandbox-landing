@@ -1,0 +1,17 @@
+.overview__item-title {
+    color: #999999;
+    font-size: 17px;
+    line-height: 21px;
+    text-align: center;
+    padding: 0 22px 12px;
+    border-bottom: solid 1px;
+    margin-bottom: 33px;
+}
+
+.overview__item-title:first-of-type {
+    padding: 0 13px 12px;
+}
+
+.overview__item-title:last-of-type {
+    padding: 0 13px 12px;
+}

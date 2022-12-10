@@ -9,7 +9,7 @@
     <title>CodeSandbox</title>
 </head>
 
-<body class="root">
+<body class="root vertical-column">
     <section class="header">
         <image class="header__logo" src="./images/Logo.svg" alt="logo"></image>
         <nav class="header__menu_container">
@@ -40,7 +40,7 @@
         </nav>
 
     </section>
-    <main class="main">
+    <main class="main vertical-column">
         <section class="lead">
             <a href="#">
                 <img src="./images/Image_lead.png" alt="" class="lead__image">
@@ -52,7 +52,17 @@
             <span class="description__text">Create, share, and get feedback with collaborative sandboxes for rapid web development.</span>
             <button class="button description__button">&lt;/&gt; Start coding for free</button>
         </section>
-
+        <section class="overview vertical-column">
+            <ul class="overview__container">
+                <li class="overview__item-title overview__item-title_active">No setup</li>
+                <li class="overview__item-title">Superfast</li>
+                <li class="overview__item-title">Multiplayer</li>
+                <li class="overview__item-title">Updates live</li>
+                <li class="overview__item-title">Shared</li>
+            </ul>
+            <span class="overview__text">A sandbox needs no setup - use a template to kickstart new projects, or start from a GitHub repo and begin coding in seconds.</span>
+            <img src="./images/Image_overview.png" alt="View of the screen CodeSandbox" class="overview__image">
+        </section>
     </main>
 </body>
 
