@@ -1,0 +1,7 @@
+.opinions__card-portrait{
+    margin-top: 35px;
+}
+
+.opinions__card:first-of-type .opinions__card-portrait {
+    margin-top: 10px;
+}

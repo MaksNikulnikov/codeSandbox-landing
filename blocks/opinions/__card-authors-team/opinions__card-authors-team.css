@@ -1,0 +1,15 @@
+.opinions__card-authors-team {
+    font-family: 'Inter', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 21px;
+    text-align: center;
+    color: #999999;
+    max-width: 195px;
+    margin-top: 8px;
+}
+
+.opinions__card:last-of-type .opinions__card-authors-team {
+    margin-top: 5px;
+}

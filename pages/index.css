@@ -49,3 +49,11 @@
 @import url(../blocks/information/__title/_experience/information__title_experience.css);
 @import url(../blocks/experience/__background-image/experience__background-image.css);
 @import url(../blocks/information/__card/_experience/information__card_experience.css);
+@import url(../blocks/opinions/__quote/opinions__quote.css);
+@import url(../blocks/opinions/__card-portrait/opinions__card-portrait.css);
+@import url(../blocks/opinions/__card/opinions__card.css);
+@import url(../blocks/opinions/opinions.css);
+@import url(../blocks/opinions/__card-icon/opinions__card-icon.css);
+@import url(../blocks/opinions/__card-author/opinions__card-author.css);
+@import url(../blocks/opinions/__card-authors-team/opinions__card-authors-team.css);
+@import url(../blocks/opinions/__title/opinions__title.css);

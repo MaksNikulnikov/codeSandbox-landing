@@ -1,0 +1,14 @@
+.opinions__quote{
+    font-family: 'Inter', Arial, sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 29px;
+    text-align: center;
+    color: #FFFFFF; 
+    max-width: 212px;
+    margin-top: 67px;
+}
+
+.opinions__card:first-of-type .opinions__quote {
+    max-width: 200px;
+}
