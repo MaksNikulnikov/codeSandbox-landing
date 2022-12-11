@@ -10,7 +10,7 @@
 @import url(../blocks/header/__button/header__button.css);
 @import url(../blocks/lead/__image/lead__image.css);
 @import url(../blocks/button/button.css);
-@import url(../blocks/description/__description.css);
+@import url(../blocks/description/description.css);
 @import url(../blocks/description/__button/deckription__button.css);
 @import url(../blocks/description/__subtitle/description__subtitle.css);
 @import url(../blocks/description/__text/description__text.css);
@@ -57,3 +57,10 @@
 @import url(../blocks/opinions/__card-author/opinions__card-author.css);
 @import url(../blocks/opinions/__card-authors-team/opinions__card-authors-team.css);
 @import url(../blocks/opinions/__title/opinions__title.css);
+@import url(../blocks/description/__image-container/idescription__image-container.css);
+@import url(../blocks/description/__image/_personal-use/description__image_personal-use.css);
+@import url(../blocks/description/__subtitle/_personal-use/description__subtitle_personal-use.css);
+@import url(../blocks/description/__text/_personal-use/description__text_personal-use.css);
+@import url(../blocks/description/__mark/_ios/description__mark_ios.css);
+@import url(../blocks/description/__mark/_personal-use/description__mark_personal-use.css);
+@import url(../blocks/description/__button/_personal-use/description__button_personal-use.css);

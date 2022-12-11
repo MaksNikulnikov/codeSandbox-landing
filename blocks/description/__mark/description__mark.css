@@ -1,12 +1,7 @@
 .description__mark {
     background: none;
-    font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 30px;
-    line-height: 36px;
     text-align: center;
-    letter-spacing: 1.9px;
-    color: #FFFFFF;
     font-family: 'Inter', Arial, sans-serif;
 }
