@@ -1,15 +1,15 @@
-.opinions__card-icon{
+.opinions__card-icon {
     position: relative;
     top: -38px;
     right: -35px;
     margin-bottom: -5px;
 }
 
-.opinions__card:first-of-type .opinions__card-icon{
+.opinions__card:first-of-type .opinions__card-icon {
     right: -46px;
 }
 
-.opinions__card:last-of-type .opinions__card-icon{
+.opinions__card:last-of-type .opinions__card-icon {
     right: -37px;
     top: -32px;
 }

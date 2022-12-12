@@ -5,4 +5,5 @@
     line-height: 23px;
     color: #FFFFFF;
     font-weight: 400;
+    text-rendering: optimizeLegibility;
 }

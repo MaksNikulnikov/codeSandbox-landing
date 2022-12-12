@@ -1,4 +1,4 @@
-.menu__has-message{
+.menu__has-message {
     background-color: #DCFF50;
     font-size: 10px;
     color: #151515;
@@ -7,8 +7,7 @@
     top: -8px;
     left: 6px;
     margin-right: 8px;
-    max-width: 16px;
-    width: 100%;
+    width: 16px;
     height: 16px;
     text-align: center;
 }

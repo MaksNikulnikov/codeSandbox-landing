@@ -6,6 +6,7 @@
     padding: 0 22px 12px;
     border-bottom: solid 1px;
     margin-bottom: 33px;
+    text-rendering: optimizeLegibility;
 }
 
 .overview__item-title:first-of-type {

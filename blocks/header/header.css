@@ -1,4 +1,4 @@
-.header{
+.header {
     background-color: #0F0E0E;
     min-height: 48px;
     width: 100%;
@@ -6,7 +6,6 @@
     line-height: 16px;
     font-weight: 400;
     color: #999999;
-    text-rendering: optimizeLegibility;
     font-family: 'Inter', Arial, sans-serif;
     display: flex;
     flex-direction: row;
