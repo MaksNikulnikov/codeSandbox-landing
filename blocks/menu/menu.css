@@ -1,9 +1,6 @@
-.header__menu{
+.menu{
     padding-left: 0;
     margin: 0;
     list-style: none;
     display: flex;
-    flex-direction: row;
-    align-items: center;
-
 }
